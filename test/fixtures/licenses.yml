@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product: one
+  user: one
+  expiration: 2017-03-09 11:10:33
+  amount_paid: 9.99
+
+two:
+  product: two
+  user: two
+  expiration: 2017-03-09 11:10:33
+  amount_paid: 9.99
